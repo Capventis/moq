@@ -1,4 +1,4 @@
-module github.com/matryer/moq
+module github.com/Capventis/moq
 
 go 1.14
 
